@@ -17,3 +17,4 @@ class encapsulation:
             self.__age = age
         else:
             print("Age must be positive.")
+            
